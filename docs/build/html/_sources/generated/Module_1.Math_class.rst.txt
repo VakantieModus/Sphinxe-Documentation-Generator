@@ -1,0 +1,29 @@
+﻿Module\_1.Math\_class
+=====================
+
+.. automodule:: Module_1.Math_class
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      MathFunctions
+   
+   
+
+   
+   
+   
+
+
+

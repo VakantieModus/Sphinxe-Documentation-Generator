@@ -1,0 +1,1 @@
+from Module_2 import Math_class_2
